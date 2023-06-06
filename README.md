@@ -15,3 +15,7 @@ We do not identify the user, as compliant with GDPR.
 This app may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves exactly the same way as if the visitor had visited the other website.
 
 By using our app you accept our Terms and conditions and also external services like OpenAI and ChatGPT Terms and conditions.
+
+DMCA
+
+![DMCATwinkle](https://github.com/turangarusso/Twinkle-Tales-Privacy-policy/assets/113531412/0d9c441f-c273-4e6e-986b-c6e20080bd09)
